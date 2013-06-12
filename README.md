@@ -77,4 +77,11 @@ grunt deploy
 You'll have to include the script yourself in the `index.html` file, instead of the Require filei.
 
 ### I left the part above in case anyone else wants to fork this and
-learn from it too.
+### learn from it too.
+
+So there is a lot of goodness in this project and I really am digging it
+so far. There are some things that need to fixed, I guess I will add
+some content for my blog and start fixing things that are'nt working
+like they should. Again a big thank you to [ *David
+Leeuwem*](http://davidvamleeuwen.nl/)
+## You rock dude \m/
