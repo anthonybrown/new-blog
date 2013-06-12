@@ -83,5 +83,5 @@ So there is a lot of goodness in this project and I really am digging it
 so far. There are some things that need to fixed, I guess I will add
 some content for my blog and start fixing things that are'nt working
 like they should. Again a big thank you to [ *David
-Leeuwem*](http://davidvamleeuwen.nl/)
+Leeuwem*](http://davidvanleeuwen.nl/)
 ## You rock dude \m/
