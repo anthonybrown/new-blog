@@ -9,7 +9,7 @@ errors when I fired it up on my machine). So, this is what I have so
 far. I still have to write some articles and a few tweaks here and
 there, but all in all, it's coming along just fine.
 
-## A big thank you to David! ## 
+## A big thank you to David! 
 
 ### Create your own ###
 
