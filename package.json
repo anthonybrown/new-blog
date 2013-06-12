@@ -1,7 +1,7 @@
 {
   "name": "Blog",
   "version": "0.0.1",
-  "description": "My blog",
+  "description": "new Blog",
   "dependencies": {
     "grunt": "~0.4.x",
     "grunt-contrib-coffee": "0.6.x",

@@ -11,17 +11,35 @@ there, but all in all, it's coming along just fine.
 
 ## A big thank you to David! 
 
-### Create your own ###
+### Working with CoffeeScript ###
 
-There are a few things you'll need to know when you want to get started with this blog. 
+When learning something new, there is nothing better than to build
+something like a blog with it!
 
-* It's a prototype and not a fully functional blog!
-* You'll have to know some basic knowledge of JavaScript
+* First of all, this is a project that I liked and forked to learn from 
+* This is the first real project that I will be using CoffeeScript in as
+  well as require JS and a few other minor JS libraries
 * Articles are written in Markdown
 
-Still up to the task? You'll need to get started by installing [Node](http://nodejs.org). Once you've done that, clone this repo and head over to this folder.
+This is a major learning experience for me. I really don't like CS that
+much, but so many projects that I like (BatmanJS, Docpad) are written in
+it. This project is written in, so I figure just learn CoffeeScript once
+and for all and get over the pain of learning it.
 
-#### 1. Get it running
+This blog is built with my favorite JS framework: Backbone/Marrionett
+I absolutely love Backbone. Everyone seems to be using Angular these
+days, but I will stick with Backbone for several reasons.
+
+* It has an amazing community
+* I understand how it works 100%, there is no `magic` envolved, which I
+  love, and it's the first of `fat client` architecture that I learned.
+* I feel that Backbone will be around for some time to come so I don't
+  have to worry about porting this project to something else.
+
+
+#### Getting things running 
+
+_This is the original readme that came with the project_
 
 Once you're ready, fire up a terminal and install all plugins by doing:
 
@@ -56,4 +74,7 @@ If you'd like to run it on your webserver, you'll only need to use the `/blog` f
 grunt deploy
 ```
 
-You'll have to include the script yourself in the `index.html` file, instead of the Require file.
+You'll have to include the script yourself in the `index.html` file, instead of the Require filei.
+
+### I left the part above in case anyone else wants to fork this and
+learn from it too.
